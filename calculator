@@ -13,3 +13,6 @@ int main(){
 		case 2:
 		       {printf("substraction of two numbers is %d",fabs(a-b));}
 		    break;
+                case 3:
+			printf("Multiplication of numbers is %d", a*b);
+			break;
