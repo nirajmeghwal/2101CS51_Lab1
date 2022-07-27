@@ -10,3 +10,6 @@ int main(){
 		case 1:
 			{printf("sum of numbers is %d",(a+b));}
 			break;
+		case 2:
+		       {printf("substraction of two numbers is %d",fabs(a-b));}
+		    break;
