@@ -4,3 +4,5 @@ int main(){
   int a,b,n;
 	printf("enter two numbers\n");
 	scanf("%d%d",&a,&b);
+        printf("enter 1 for sum, 2 for substraction , 3 for multiplication , 4 for division");
+	scanf("%d",&n);
